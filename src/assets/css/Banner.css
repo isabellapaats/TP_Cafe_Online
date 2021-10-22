@@ -1,0 +1,22 @@
+#main-banner{
+    display: flex;
+    flex-direction:  column;
+    padding: 10px;
+    max-width: 150px;
+    height: 350px;
+    border: thin solid black;
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+.img-banner{
+    width: 100px;
+    height: 150px
+}
+#descripcion{
+    font-size: 12px;
+}
+

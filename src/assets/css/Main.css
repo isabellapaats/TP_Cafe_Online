@@ -1,0 +1,48 @@
+header{
+    display: flex;
+    flex-direction: row;
+    height: 200px;
+    background-color:black;
+    margin: 0px;
+    justify-content: space-between;
+}
+.logo {
+    height: 200px;
+    margin: 0px;
+
+}
+.titulo{
+    display: flex;
+    color: #D28600;
+    font-size: 40px;
+    margin: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+
+}
+
+button {
+    margin: 70px;
+    color: #D28600;
+    font-size: 20px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+button:hover{
+    background-color:#E8E0CF ;
+}
+#contenedor{
+    display: flex;
+    justify-content: flex-start;
+    background-color: black;
+    color: white;
+    border: solid;
+    border-color: white;
+
+}
+.subtitulo{
+    margin-left: 20px;
+    font-family: cursive;
+    font-size: 18px;
+}

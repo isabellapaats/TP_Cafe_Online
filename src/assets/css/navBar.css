@@ -1,0 +1,21 @@
+#main-container-navbar{
+    display:inline-block;
+    margin: 5px;
+    width: 200px;
+    background-color: #E8E0CF;
+    border: 5px solid black;
+    border-radius: 5px;
+    text-align: center;
+    max-height: 290px;
+
+}
+#main-container-navbar p:hover{
+    background-color: #D28600;
+}
+.menu{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    display: block;
+    padding: 10px;
+}

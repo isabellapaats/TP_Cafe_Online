@@ -1,0 +1,43 @@
+
+#main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: start;
+    justify-content: center;
+    margin-left: 40px;
+
+
+}
+.main-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 6px;
+}
+img{
+    width: 150px;
+    height: 200px;
+    margin: 0 10px 0 10px;
+    cursor: pointer;
+
+}
+.button-box{
+    color: white;
+    background-color:#D08902;
+    border: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.phrases{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.button-box:hover{
+    background-color: #976D1B;
+}
+img:hover{
+    opacity:0.8;
+}
